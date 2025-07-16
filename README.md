@@ -1,4 +1,4 @@
-Supplementary materials for the paper by Sergey Say & Ilja A. Seržant "An Algorithm for Argument Extraction from Russian Treebanks" (submitted to "Neophilologica").
+## Supplementary materials for the paper by Sergey Say & Ilja A. Seržant "An Algorithm for Argument Extraction from Russian Treebanks" (submitted to "Neophilologica").
 
 This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
