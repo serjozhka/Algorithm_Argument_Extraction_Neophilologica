@@ -11,8 +11,9 @@ These tags are used in these columns:
 
 ## Additional tags
 These tags are used in these columns:
-notes_ros (column AH)		additional tags relevant for the annotation’s based on Rozental’s dictionary
-notes_act_dict_arg (column AJ)	additional tags relevant for the annotation’s based on The Active Dictionary
+- notes_ros (column AH)		additional tags relevant for the annotation’s based on Rozental’s dictionary
+- notes_act_dict_arg (column AJ)	additional tags relevant for the annotation’s based on The Active Dictionary
+
 Additional tags are not mutually exclusive.
 
 | tag | combines with | meaning                                                                                                                                                                                                                          | example from the Active Dictionary                                                                                                                                                                                                                                                                                                                                                           |
