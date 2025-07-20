@@ -37,4 +37,8 @@ This spreadsheet contains 122551 entries each corresponding to a verb dependent 
 
 An excerpt from the previous spreadsheet (5423 entries from data.xlsx) additionally annotated manually for the argumenthood status as given in dictionaries.
 
+8. dictionary_based_tags.md
+   
+Explanation of manual tags used in the relevant columns of "data_with_dictionary_annotations.xlsx". 
+
 
