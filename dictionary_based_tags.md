@@ -1,7 +1,7 @@
 ## Main tags
 These tags are used in these columns:
-- ros_arg (column AG)		manual annotations based on Rozental’s dictionary
-- act_dict_arg (column AI)	manual annotations based on The Active Dictionary
+- ros_arg (column AG):	manual annotations based on Rozental’s dictionary
+- act_dict_arg (column AI):	manual annotations based on The Active Dictionary
 
 | tag  | meaning                                                                                                                             |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,8 +11,8 @@ These tags are used in these columns:
 
 ## Additional tags
 These tags are used in these columns:
-- notes_ros (column AH)		additional tags relevant for the annotation’s based on Rozental’s dictionary
-- notes_act_dict_arg (column AJ)	additional tags relevant for the annotation’s based on The Active Dictionary
+- notes_ros (column AH): additional tags relevant for the annotation’s based on Rozental’s dictionary
+- notes_act_dict_arg (column AJ): additional tags relevant for the annotation’s based on The Active Dictionary
 
 Additional tags are not mutually exclusive.
 
